@@ -41,9 +41,9 @@ I’m passionate about building interactive web applications, diving into the wo
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujalgaurson&show_icons=true&theme=radical" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalgaurson&layout=compact&theme=radical" />
 </p>
 
 ---
