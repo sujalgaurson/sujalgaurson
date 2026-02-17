@@ -1,78 +1,100 @@
-Sujal Kumar | AI Engineer
-GenAI & Agentic Systems Specialist [End-to-End AI Solution] 
+# 🚀 Sujal Kumar — AI Engineer | GenAI & Agentic Systems
 
-Passionate Full-Stack AI Engineer specializing in production-grade Generative AI systems, including Agentic AI (multi-agent orchestration) and advanced RAG pipelines. I bridge the gap between complex LLM research and scalable, real-world deployment.
-+1
+> Building **production-grade AI systems** that turn ideas into scalable real-world products.
 
-🛠 Technical Skills
-Generative AI & ML
+---
 
-Core: Generative AI, LLMs, Prompt Engineering, NLP.
+## 👨‍💻 About Me
 
-Retrieval: Retrieval-Augmented Generation (RAG), Hybrid Search (BM25 + Semantic), Query Rewriting, Contextual Compression.
+Hi! I'm **Sujal Kumar**, a Full-Stack AI Engineer specializing in **Generative AI, Agentic Systems, and advanced RAG pipelines**. I design and deploy end-to-end AI solutions — from backend architecture to intelligent user interfaces.
 
-Evaluation: RAG Evaluation (RAGAS).
+I’m passionate about building **LLM-powered applications** that are scalable, reliable, and production-ready.
 
-Agentic Frameworks
+---
 
-Tools: LangChain, LangGraph, CrewAI.
+## 🧠 Core Expertise
 
-Concepts: Multi-agent orchestration, multi-step reasoning, and tool-integration layers.
+* 🤖 **Generative AI & LLM Systems**
+* 🔍 **Retrieval-Augmented Generation (RAG)**
+* 🧩 **Multi-Agent Orchestration**
+* ⚙️ **Backend & MLOps Engineering**
+* 🌐 **Full-Stack AI Applications**
 
-Backend & Infrastructure
+---
 
-Languages & Frameworks: Python, FastAPI, TensorFlow, PyTorch.
+## 🛠 Tech Stack
 
-DevOps/MLOps: System Design, Microservices, Docker, CI/CD.
+### AI / ML
 
-Full-Stack Development
+`LLMs` • `RAG` • `AI Agents` • `LangChain` • `LangGraph` • `CrewAI`
+`Prompt Engineering` • `NLP` • `RAG Evaluation (RAGAS)`
 
-Frontend: React, Next.js, JavaScript/TypeScript, Responsive UI Development.
+### Backend & Infrastructure
 
-🚀 Key Projects
-Autonomous AI Agent System
+`Python` • `FastAPI` • `Docker` • `CI/CD`
+`System Design` • `Microservices` • `TensorFlow` • `PyTorch`
 
-Stack: Python, LangChain, FastAPI.
+### Retrieval & Data
 
-Developed an AI agent capable of multi-step reasoning and autonomous task execution using LLM orchestration frameworks.
+`Hybrid Search (BM25 + Semantic)` • `Vector Databases`
+`Query Rewriting` • `Contextual Compression`
 
-Built planner-executor workflows and state management to ensure reliable agent actions.
+### Frontend
 
-Production-Ready RAG Application
+`React` • `Next.js` • `TypeScript` • `Modern UI/UX`
 
-Stack: Python, Pinecone, Docker.
+---
 
-Designed an end-to-end pipeline using hybrid search to optimize retrieval accuracy by 40%.
+## 🚧 Featured Projects
 
-Integrated query rewriting and contextual compression to enhance answer quality by 60% and optimize token usage.
+### 🔹 Autonomous AI Agent System
 
-Conducted systematic evaluation using RAGAS to measure performance against enterprise metrics.
+* Built a multi-step reasoning AI agent capable of autonomous task execution
+* Designed planner-executor workflows with failure handling
+* Implemented dynamic tool integration and orchestration layers
 
-Intelligent Virtual Agent for Data Insights
+### 🔹 Production-Ready RAG Platform
 
-Stack: Python, OpenAI, SQL.
+* Developed hybrid search RAG pipeline improving retrieval accuracy by **40%**
+* Integrated query rewriting & contextual compression for better responses
+* Created modular FastAPI backend + responsive full-stack UI
+* Containerized with Docker and automated CI/CD deployment
 
-Built a specialized agent to analyze real-world datasets, delivering insights through automated reasoning.
+### 🔹 Intelligent Virtual Data Agent
 
-Engineered safety guardrails and audit trails for explainability and compliance.
+* Built an AI agent that analyzes real datasets for actionable insights
+* Engineered guardrails and audit trails for safe AI usage
+* Delivered explainable outputs aligned with compliance workflows
 
-💼 Engineering Experience
-AI Engineer (Independent Projects): Built and deployed multiple production-grade Generative AI applications using modern LLM architectures.
+---
 
-System Design: Designed scalable backend systems and APIs to support complex AI-driven workflows.
+## 🏗 What I’m Currently Focused On
 
-Cloud & DevOps: Applied MLOps best practices, including containerization and cloud deployment (AWS/GCP).
+* Advanced **Agentic AI architectures**
+* Scalable **LLM infrastructure**
+* Production **AI system design**
+* Real-world AI deployment pipelines
 
-🎓 Education
-B.Tech, Artificial Intelligence & Machine Learning 
+---
 
-Guru Govind Singh Indraprastha University 
+## 🎯 Goals
 
-📬 Connect with Me
-Email: sujal90.sja@gmail.com 
+To build impactful AI systems that bridge research and production, and contribute to the future of intelligent software.
 
-LinkedIn: linkedin.com/in/sujal-kumar 
+---
 
-GitHub: github.com/sujalgaurson 
+## 📫 Connect With Me
 
-Contact: 8368751072
+📧 **Email:** [sujal90.sja@gmail.com](mailto:sujal90.sja@gmail.com)
+🔗 **LinkedIn:** https://linkedin.com/in/sujal-kumar
+💻 **GitHub:** https://github.com/sujalgaurson
+
+---
+
+## ⚡ Fun Fact
+
+I love turning complex AI ideas into elegant, production-ready systems.
+
+---
+
+⭐ *If you like my work, feel free to explore my repositories and connect!*
