@@ -1,60 +1,78 @@
-### Hi there, I'm [Sujal Gaurson] 👋
+Sujal Kumar | AI Engineer
+GenAI & Agentic Systems Specialist [End-to-End AI Solution] 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Passionate Full-Stack AI Engineer specializing in production-grade Generative AI systems, including Agentic AI (multi-agent orchestration) and advanced RAG pipelines. I bridge the gap between complex LLM research and scalable, real-world deployment.
++1
 
-🚀 **Front-End Developer | AI & ML Enthusiast | Tech Explorer**
+🛠 Technical Skills
+Generative AI & ML
 
-I’m passionate about building interactive web applications, diving into the world of AI & Machine Learning, and exploring the latest in tech! 
+Core: Generative AI, LLMs, Prompt Engineering, NLP.
 
-<p align = "center"><img align = "center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%"></p>
+Retrieval: Retrieval-Augmented Generation (RAG), Hybrid Search (BM25 + Semantic), Query Rewriting, Contextual Compression.
 
+Evaluation: RAG Evaluation (RAGAS).
 
----
+Agentic Frameworks
 
-### 🔥 About Me:
-- 🖥️ Front-end developer with a focus on modern JavaScript frameworks (React, Vue, etc.)
-- 🤖 Learning and experimenting with Machine Learning & AI
-- 🌍 Passionate about open-source contributions & tech communities
-- 🎯 Always exploring new technologies & best practices
+Tools: LangChain, LangGraph, CrewAI.
 
----
+Concepts: Multi-agent orchestration, multi-step reasoning, and tool-integration layers.
 
-### 🚀 Tech Stack:
+Backend & Infrastructure
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</p>
+Languages & Frameworks: Python, FastAPI, TensorFlow, PyTorch.
 
-<p align = "center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%"></p>
+DevOps/MLOps: System Design, Microservices, Docker, CI/CD.
 
+Full-Stack Development
 
----
+Frontend: React, Next.js, JavaScript/TypeScript, Responsive UI Development.
 
-### 📊 GitHub Stats:
+🚀 Key Projects
+Autonomous AI Agent System
 
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalgaurson&show_icons=true&theme=radical" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalgaurson&layout=compact&theme=radical" />
-</p>
+Stack: Python, LangChain, FastAPI.
 
----
+Developed an AI agent capable of multi-step reasoning and autonomous task execution using LLM orchestration frameworks.
 
-### 🌍 Connect with Me:
+Built planner-executor workflows and state management to ensure reliable agent actions.
 
-<p align="center">
-  <a href="www.linkedin.com/in/sujal-kumar-ab9286317">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
+Production-Ready RAG Application
 
-Let's collaborate and build amazing things together! 🚀
+Stack: Python, Pinecone, Docker.
+
+Designed an end-to-end pipeline using hybrid search to optimize retrieval accuracy by 40%.
+
+Integrated query rewriting and contextual compression to enhance answer quality by 60% and optimize token usage.
+
+Conducted systematic evaluation using RAGAS to measure performance against enterprise metrics.
+
+Intelligent Virtual Agent for Data Insights
+
+Stack: Python, OpenAI, SQL.
+
+Built a specialized agent to analyze real-world datasets, delivering insights through automated reasoning.
+
+Engineered safety guardrails and audit trails for explainability and compliance.
+
+💼 Engineering Experience
+AI Engineer (Independent Projects): Built and deployed multiple production-grade Generative AI applications using modern LLM architectures.
+
+System Design: Designed scalable backend systems and APIs to support complex AI-driven workflows.
+
+Cloud & DevOps: Applied MLOps best practices, including containerization and cloud deployment (AWS/GCP).
+
+🎓 Education
+B.Tech, Artificial Intelligence & Machine Learning 
+
+Guru Govind Singh Indraprastha University 
+
+📬 Connect with Me
+Email: sujal90.sja@gmail.com 
+
+LinkedIn: linkedin.com/in/sujal-kumar 
+
+GitHub: github.com/sujalgaurson 
+
+Contact: 8368751072
