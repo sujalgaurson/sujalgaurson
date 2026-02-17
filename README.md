@@ -1,4 +1,4 @@
-# 🚀 Sujal Kumar — AI Engineer | GenAI & Agentic Systems
+# 🚀 Sujal Gaurson — AI Engineer | GenAI & Agentic Systems
 
 > Building **production-grade AI systems** that turn ideas into scalable real-world products.
 
